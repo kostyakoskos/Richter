@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fields\Fields\bin\Debug\net5.0\Fields.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fields\Fields\bin\Debug\net5.0\Fields.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fields\Fields\bin\Debug\net5.0\Fields.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fields\Fields\bin\Debug\net5.0\Fields.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fields\Fields\bin\Debug\net5.0\Fields.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fields\Fields\bin\Debug\net5.0\ref\Fields.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fields\Fields\bin\Debug\net5.0\Fields.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fields\Fields\obj\Debug\net5.0\Fields.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fields\Fields\obj\Debug\net5.0\Fields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fields\Fields\obj\Debug\net5.0\Fields.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fields\Fields\obj\Debug\net5.0\Fields.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fields\Fields\obj\Debug\net5.0\Fields.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fields\Fields\obj\Debug\net5.0\Fields.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fields\Fields\obj\Debug\net5.0\ref\Fields.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fields\Fields\obj\Debug\net5.0\Fields.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fields\Fields\obj\Debug\net5.0\Fields.genruntimeconfig.cache

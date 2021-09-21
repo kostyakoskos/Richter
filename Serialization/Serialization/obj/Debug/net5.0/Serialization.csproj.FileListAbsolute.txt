@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Serialization\Serialization\bin\Debug\net5.0\Serialization.exe
+C:\Users\kanstantsin.karatkev\source\repos\Serialization\Serialization\bin\Debug\net5.0\Serialization.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Serialization\Serialization\bin\Debug\net5.0\Serialization.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Serialization\Serialization\bin\Debug\net5.0\Serialization.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Serialization\Serialization\bin\Debug\net5.0\Serialization.dll
+C:\Users\kanstantsin.karatkev\source\repos\Serialization\Serialization\bin\Debug\net5.0\ref\Serialization.dll
+C:\Users\kanstantsin.karatkev\source\repos\Serialization\Serialization\bin\Debug\net5.0\Serialization.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Serialization\Serialization\obj\Debug\net5.0\Serialization.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Serialization\Serialization\obj\Debug\net5.0\Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Serialization\Serialization\obj\Debug\net5.0\Serialization.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Serialization\Serialization\obj\Debug\net5.0\Serialization.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Serialization\Serialization\obj\Debug\net5.0\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Serialization\Serialization\obj\Debug\net5.0\Serialization.dll
+C:\Users\kanstantsin.karatkev\source\repos\Serialization\Serialization\obj\Debug\net5.0\ref\Serialization.dll
+C:\Users\kanstantsin.karatkev\source\repos\Serialization\Serialization\obj\Debug\net5.0\Serialization.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Serialization\Serialization\obj\Debug\net5.0\Serialization.genruntimeconfig.cache

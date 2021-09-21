@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\SpecialDelegate\bin\Debug\net5.0\SpecialDelegate.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\SpecialDelegate\bin\Debug\net5.0\SpecialDelegate.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\SpecialDelegate\bin\Debug\net5.0\SpecialDelegate.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\SpecialDelegate\bin\Debug\net5.0\SpecialDelegate.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\SpecialDelegate\bin\Debug\net5.0\SpecialDelegate.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\SpecialDelegate\bin\Debug\net5.0\ref\SpecialDelegate.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\SpecialDelegate\bin\Debug\net5.0\SpecialDelegate.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\SpecialDelegate\obj\Debug\net5.0\SpecialDelegate.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\SpecialDelegate\obj\Debug\net5.0\SpecialDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\SpecialDelegate\obj\Debug\net5.0\SpecialDelegate.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\SpecialDelegate\obj\Debug\net5.0\SpecialDelegate.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\SpecialDelegate\obj\Debug\net5.0\SpecialDelegate.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\SpecialDelegate\obj\Debug\net5.0\SpecialDelegate.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\SpecialDelegate\obj\Debug\net5.0\ref\SpecialDelegate.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\SpecialDelegate\obj\Debug\net5.0\SpecialDelegate.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\SpecialDelegate\obj\Debug\net5.0\SpecialDelegate.genruntimeconfig.cache

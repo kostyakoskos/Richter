@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Lambda\Lambda\bin\Debug\net5.0\Lambda.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Lambda\Lambda\bin\Debug\net5.0\Lambda.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Lambda\Lambda\bin\Debug\net5.0\Lambda.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Lambda\Lambda\bin\Debug\net5.0\Lambda.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Lambda\Lambda\bin\Debug\net5.0\Lambda.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Lambda\Lambda\bin\Debug\net5.0\ref\Lambda.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Lambda\Lambda\bin\Debug\net5.0\Lambda.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Lambda\Lambda\obj\Debug\net5.0\Lambda.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Lambda\Lambda\obj\Debug\net5.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Lambda\Lambda\obj\Debug\net5.0\Lambda.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Lambda\Lambda\obj\Debug\net5.0\Lambda.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Lambda\Lambda\obj\Debug\net5.0\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Lambda\Lambda\obj\Debug\net5.0\Lambda.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Lambda\Lambda\obj\Debug\net5.0\ref\Lambda.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Lambda\Lambda\obj\Debug\net5.0\Lambda.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Lambda\Lambda\obj\Debug\net5.0\Lambda.genruntimeconfig.cache

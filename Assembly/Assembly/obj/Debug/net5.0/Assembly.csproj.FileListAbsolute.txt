@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Assembly\Assembly\bin\Debug\net5.0\Assembly.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Assembly\Assembly\bin\Debug\net5.0\Assembly.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Assembly\Assembly\bin\Debug\net5.0\Assembly.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Assembly\Assembly\bin\Debug\net5.0\Assembly.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Assembly\Assembly\bin\Debug\net5.0\Assembly.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Assembly\Assembly\bin\Debug\net5.0\ref\Assembly.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Assembly\Assembly\bin\Debug\net5.0\Assembly.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Assembly\Assembly\obj\Debug\net5.0\Assembly.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Assembly\Assembly\obj\Debug\net5.0\Assembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Assembly\Assembly\obj\Debug\net5.0\Assembly.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Assembly\Assembly\obj\Debug\net5.0\Assembly.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Assembly\Assembly\obj\Debug\net5.0\Assembly.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Assembly\Assembly\obj\Debug\net5.0\Assembly.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Assembly\Assembly\obj\Debug\net5.0\ref\Assembly.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Assembly\Assembly\obj\Debug\net5.0\Assembly.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Assembly\Assembly\obj\Debug\net5.0\Assembly.genruntimeconfig.cache

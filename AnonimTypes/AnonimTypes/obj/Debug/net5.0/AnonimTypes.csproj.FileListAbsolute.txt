@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AnonimTypes\AnonimTypes\obj\Debug\net5.0\AnonimTypes.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AnonimTypes\AnonimTypes\obj\Debug\net5.0\AnonimTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AnonimTypes\AnonimTypes\obj\Debug\net5.0\AnonimTypes.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AnonimTypes\AnonimTypes\obj\Debug\net5.0\AnonimTypes.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AnonimTypes\AnonimTypes\obj\Debug\net5.0\AnonimTypes.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AnonimTypes\AnonimTypes\bin\Debug\net5.0\AnonimTypes.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AnonimTypes\AnonimTypes\bin\Debug\net5.0\AnonimTypes.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AnonimTypes\AnonimTypes\bin\Debug\net5.0\AnonimTypes.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AnonimTypes\AnonimTypes\bin\Debug\net5.0\AnonimTypes.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AnonimTypes\AnonimTypes\bin\Debug\net5.0\AnonimTypes.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AnonimTypes\AnonimTypes\bin\Debug\net5.0\ref\AnonimTypes.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AnonimTypes\AnonimTypes\bin\Debug\net5.0\AnonimTypes.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AnonimTypes\AnonimTypes\obj\Debug\net5.0\AnonimTypes.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AnonimTypes\AnonimTypes\obj\Debug\net5.0\ref\AnonimTypes.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AnonimTypes\AnonimTypes\obj\Debug\net5.0\AnonimTypes.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AnonimTypes\AnonimTypes\obj\Debug\net5.0\AnonimTypes.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Events\Event3\bin\Debug\net5.0\Event3.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Events\Event3\bin\Debug\net5.0\Event3.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Events\Event3\bin\Debug\net5.0\Event3.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Events\Event3\bin\Debug\net5.0\Event3.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Events\Event3\bin\Debug\net5.0\Event3.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Events\Event3\bin\Debug\net5.0\ref\Event3.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Events\Event3\bin\Debug\net5.0\Event3.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Events\Event3\obj\Debug\net5.0\Event3.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Events\Event3\obj\Debug\net5.0\Event3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Events\Event3\obj\Debug\net5.0\Event3.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Events\Event3\obj\Debug\net5.0\Event3.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Events\Event3\obj\Debug\net5.0\Event3.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Events\Event3\obj\Debug\net5.0\Event3.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Events\Event3\obj\Debug\net5.0\ref\Event3.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Events\Event3\obj\Debug\net5.0\Event3.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Events\Event3\obj\Debug\net5.0\Event3.genruntimeconfig.cache

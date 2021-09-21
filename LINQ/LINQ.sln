@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{66F96189-18C5-4130-A63F-A3A1C91BD942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelInvoke", "ParallelInvoke\ParallelInvoke.csproj", "{B0D5F2C3-015F-4C73-9A2B-BFDC94A94CC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66F96189-18C5-4130-A63F-A3A1C91BD942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F96189-18C5-4130-A63F-A3A1C91BD942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F96189-18C5-4130-A63F-A3A1C91BD942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F96189-18C5-4130-A63F-A3A1C91BD942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0D5F2C3-015F-4C73-9A2B-BFDC94A94CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D5F2C3-015F-4C73-9A2B-BFDC94A94CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D5F2C3-015F-4C73-9A2B-BFDC94A94CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D5F2C3-015F-4C73-9A2B-BFDC94A94CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09914E1C-D001-497A-A07B-5DA850BBC998}
+	EndGlobalSection
+EndGlobal
