@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\QuestrinsInterview\bin\Debug\net5.0\QuestrinsInterview.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\QuestrinsInterview\bin\Debug\net5.0\QuestrinsInterview.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\QuestrinsInterview\bin\Debug\net5.0\QuestrinsInterview.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\QuestrinsInterview\bin\Debug\net5.0\QuestrinsInterview.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\QuestrinsInterview\bin\Debug\net5.0\QuestrinsInterview.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\QuestrinsInterview\bin\Debug\net5.0\ref\QuestrinsInterview.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\QuestrinsInterview\bin\Debug\net5.0\QuestrinsInterview.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\QuestrinsInterview\obj\Debug\net5.0\QuestrinsInterview.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\QuestrinsInterview\obj\Debug\net5.0\QuestrinsInterview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\QuestrinsInterview\obj\Debug\net5.0\QuestrinsInterview.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\QuestrinsInterview\obj\Debug\net5.0\QuestrinsInterview.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\QuestrinsInterview\obj\Debug\net5.0\QuestrinsInterview.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\QuestrinsInterview\obj\Debug\net5.0\QuestrinsInterview.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\QuestrinsInterview\obj\Debug\net5.0\ref\QuestrinsInterview.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\QuestrinsInterview\obj\Debug\net5.0\QuestrinsInterview.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\QuestrinsInterview\obj\Debug\net5.0\QuestrinsInterview.genruntimeconfig.cache

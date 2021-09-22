@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\TaskFirstApp\bin\Debug\net5.0\TaskFirstApp.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\TaskFirstApp\bin\Debug\net5.0\TaskFirstApp.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\TaskFirstApp\bin\Debug\net5.0\TaskFirstApp.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\TaskFirstApp\bin\Debug\net5.0\TaskFirstApp.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\TaskFirstApp\bin\Debug\net5.0\TaskFirstApp.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\TaskFirstApp\bin\Debug\net5.0\ref\TaskFirstApp.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\TaskFirstApp\bin\Debug\net5.0\TaskFirstApp.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\TaskFirstApp\obj\Debug\net5.0\TaskFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\TaskFirstApp\obj\Debug\net5.0\TaskFirstApp.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\TaskFirstApp\obj\Debug\net5.0\TaskFirstApp.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\TaskFirstApp\obj\Debug\net5.0\TaskFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\TaskFirstApp\obj\Debug\net5.0\TaskFirstApp.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\TaskFirstApp\obj\Debug\net5.0\ref\TaskFirstApp.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\TaskFirstApp\obj\Debug\net5.0\TaskFirstApp.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\TaskFirstApp\obj\Debug\net5.0\TaskFirstApp.genruntimeconfig.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\TaskFirstApp\obj\Debug\net5.0\TaskFirstApp.csproj.AssemblyReference.cache

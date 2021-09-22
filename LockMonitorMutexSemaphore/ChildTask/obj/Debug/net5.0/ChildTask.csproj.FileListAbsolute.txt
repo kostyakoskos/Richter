@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\ChildTask\bin\Debug\net5.0\ChildTask.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\ChildTask\bin\Debug\net5.0\ChildTask.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\ChildTask\bin\Debug\net5.0\ChildTask.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\ChildTask\bin\Debug\net5.0\ChildTask.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\ChildTask\bin\Debug\net5.0\ChildTask.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\ChildTask\bin\Debug\net5.0\ref\ChildTask.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\ChildTask\bin\Debug\net5.0\ChildTask.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\ChildTask\obj\Debug\net5.0\ChildTask.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\ChildTask\obj\Debug\net5.0\ChildTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\ChildTask\obj\Debug\net5.0\ChildTask.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\ChildTask\obj\Debug\net5.0\ChildTask.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\ChildTask\obj\Debug\net5.0\ChildTask.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\ChildTask\obj\Debug\net5.0\ChildTask.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\ChildTask\obj\Debug\net5.0\ref\ChildTask.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\ChildTask\obj\Debug\net5.0\ChildTask.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\ChildTask\obj\Debug\net5.0\ChildTask.genruntimeconfig.cache

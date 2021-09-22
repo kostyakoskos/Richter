@@ -10,7 +10,7 @@ namespace SpecialDelegate
         {
             Action<int, int> op;
             op = Add;
-            Operation(10, 6, op);
+            Operation(10, 6, Add);
             op = Substract;
             Operation(10, 6, op);
             Console.WriteLine("Hello World!");
@@ -25,8 +25,10 @@ namespace SpecialDelegate
             foreach (String word in aWords)
                 Console.WriteLine(word);
 
+
             Console.Read();
         }
+
         static void Operation(int x1, int x2, Action<int, int> op)
         {
             if (x1 > x2)

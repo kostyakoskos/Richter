@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fibonachi\Fibonachi\bin\Debug\net5.0\Fibonachi.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fibonachi\Fibonachi\bin\Debug\net5.0\Fibonachi.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fibonachi\Fibonachi\bin\Debug\net5.0\Fibonachi.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fibonachi\Fibonachi\bin\Debug\net5.0\Fibonachi.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fibonachi\Fibonachi\bin\Debug\net5.0\Fibonachi.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fibonachi\Fibonachi\bin\Debug\net5.0\ref\Fibonachi.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fibonachi\Fibonachi\bin\Debug\net5.0\Fibonachi.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fibonachi\Fibonachi\obj\Debug\net5.0\Fibonachi.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fibonachi\Fibonachi\obj\Debug\net5.0\Fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fibonachi\Fibonachi\obj\Debug\net5.0\Fibonachi.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fibonachi\Fibonachi\obj\Debug\net5.0\Fibonachi.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fibonachi\Fibonachi\obj\Debug\net5.0\Fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fibonachi\Fibonachi\obj\Debug\net5.0\Fibonachi.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fibonachi\Fibonachi\obj\Debug\net5.0\ref\Fibonachi.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fibonachi\Fibonachi\obj\Debug\net5.0\Fibonachi.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Fibonachi\Fibonachi\obj\Debug\net5.0\Fibonachi.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\Records2\bin\Debug\net5.0\Records2.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\Records2\bin\Debug\net5.0\Records2.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\Records2\bin\Debug\net5.0\Records2.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\Records2\bin\Debug\net5.0\Records2.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\Records2\bin\Debug\net5.0\Records2.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\Records2\bin\Debug\net5.0\ref\Records2.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\Records2\bin\Debug\net5.0\Records2.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\Records2\obj\Debug\net5.0\Records2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\Records2\obj\Debug\net5.0\Records2.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\Records2\obj\Debug\net5.0\Records2.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\Records2\obj\Debug\net5.0\Records2.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\Records2\obj\Debug\net5.0\Records2.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\Records2\obj\Debug\net5.0\ref\Records2.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\Records2\obj\Debug\net5.0\Records2.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\Records2\obj\Debug\net5.0\Records2.genruntimeconfig.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\Records2\obj\Debug\net5.0\Records2.csproj.AssemblyReference.cache

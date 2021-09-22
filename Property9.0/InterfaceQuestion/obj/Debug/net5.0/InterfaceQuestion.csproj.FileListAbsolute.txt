@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\InterfaceQuestion\bin\Debug\net5.0\InterfaceQuestion.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\InterfaceQuestion\bin\Debug\net5.0\InterfaceQuestion.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\InterfaceQuestion\bin\Debug\net5.0\InterfaceQuestion.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\InterfaceQuestion\bin\Debug\net5.0\InterfaceQuestion.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\InterfaceQuestion\bin\Debug\net5.0\InterfaceQuestion.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\InterfaceQuestion\bin\Debug\net5.0\ref\InterfaceQuestion.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\InterfaceQuestion\bin\Debug\net5.0\InterfaceQuestion.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\InterfaceQuestion\obj\Debug\net5.0\InterfaceQuestion.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\InterfaceQuestion\obj\Debug\net5.0\InterfaceQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\InterfaceQuestion\obj\Debug\net5.0\InterfaceQuestion.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\InterfaceQuestion\obj\Debug\net5.0\InterfaceQuestion.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\InterfaceQuestion\obj\Debug\net5.0\InterfaceQuestion.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\InterfaceQuestion\obj\Debug\net5.0\InterfaceQuestion.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\InterfaceQuestion\obj\Debug\net5.0\ref\InterfaceQuestion.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\InterfaceQuestion\obj\Debug\net5.0\InterfaceQuestion.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Property9.0\InterfaceQuestion\obj\Debug\net5.0\InterfaceQuestion.genruntimeconfig.cache

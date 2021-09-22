@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\LockMonitorMutexSemaphore\obj\Debug\net5.0\LockMonitorMutexSemaphore.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\LockMonitorMutexSemaphore\obj\Debug\net5.0\LockMonitorMutexSemaphore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\LockMonitorMutexSemaphore\obj\Debug\net5.0\LockMonitorMutexSemaphore.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\LockMonitorMutexSemaphore\obj\Debug\net5.0\LockMonitorMutexSemaphore.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\LockMonitorMutexSemaphore\obj\Debug\net5.0\LockMonitorMutexSemaphore.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\LockMonitorMutexSemaphore\bin\Debug\net5.0\LockMonitorMutexSemaphore.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\LockMonitorMutexSemaphore\bin\Debug\net5.0\LockMonitorMutexSemaphore.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\LockMonitorMutexSemaphore\bin\Debug\net5.0\LockMonitorMutexSemaphore.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\LockMonitorMutexSemaphore\bin\Debug\net5.0\LockMonitorMutexSemaphore.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\LockMonitorMutexSemaphore\bin\Debug\net5.0\LockMonitorMutexSemaphore.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\LockMonitorMutexSemaphore\bin\Debug\net5.0\ref\LockMonitorMutexSemaphore.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\LockMonitorMutexSemaphore\bin\Debug\net5.0\LockMonitorMutexSemaphore.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\LockMonitorMutexSemaphore\obj\Debug\net5.0\LockMonitorMutexSemaphore.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\LockMonitorMutexSemaphore\obj\Debug\net5.0\ref\LockMonitorMutexSemaphore.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\LockMonitorMutexSemaphore\obj\Debug\net5.0\LockMonitorMutexSemaphore.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\LockMonitorMutexSemaphore\obj\Debug\net5.0\LockMonitorMutexSemaphore.genruntimeconfig.cache
