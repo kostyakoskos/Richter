@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\CancellationTask\bin\Debug\net5.0\CancellationTask.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\CancellationTask\bin\Debug\net5.0\CancellationTask.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\CancellationTask\bin\Debug\net5.0\CancellationTask.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\CancellationTask\bin\Debug\net5.0\CancellationTask.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\CancellationTask\bin\Debug\net5.0\CancellationTask.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\CancellationTask\bin\Debug\net5.0\ref\CancellationTask.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\CancellationTask\bin\Debug\net5.0\CancellationTask.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\CancellationTask\obj\Debug\net5.0\CancellationTask.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\CancellationTask\obj\Debug\net5.0\CancellationTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\CancellationTask\obj\Debug\net5.0\CancellationTask.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\CancellationTask\obj\Debug\net5.0\CancellationTask.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\CancellationTask\obj\Debug\net5.0\CancellationTask.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\CancellationTask\obj\Debug\net5.0\CancellationTask.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\CancellationTask\obj\Debug\net5.0\ref\CancellationTask.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\CancellationTask\obj\Debug\net5.0\CancellationTask.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\CancellationTask\obj\Debug\net5.0\CancellationTask.genruntimeconfig.cache

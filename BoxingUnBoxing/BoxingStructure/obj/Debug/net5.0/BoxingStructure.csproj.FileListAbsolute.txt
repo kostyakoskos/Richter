@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingStructure\bin\Debug\net5.0\BoxingStructure.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingStructure\bin\Debug\net5.0\BoxingStructure.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingStructure\bin\Debug\net5.0\BoxingStructure.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingStructure\bin\Debug\net5.0\BoxingStructure.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingStructure\bin\Debug\net5.0\BoxingStructure.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingStructure\bin\Debug\net5.0\ref\BoxingStructure.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingStructure\bin\Debug\net5.0\BoxingStructure.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingStructure\obj\Debug\net5.0\BoxingStructure.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingStructure\obj\Debug\net5.0\BoxingStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingStructure\obj\Debug\net5.0\BoxingStructure.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingStructure\obj\Debug\net5.0\BoxingStructure.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingStructure\obj\Debug\net5.0\BoxingStructure.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingStructure\obj\Debug\net5.0\BoxingStructure.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingStructure\obj\Debug\net5.0\ref\BoxingStructure.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingStructure\obj\Debug\net5.0\BoxingStructure.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingStructure\obj\Debug\net5.0\BoxingStructure.genruntimeconfig.cache

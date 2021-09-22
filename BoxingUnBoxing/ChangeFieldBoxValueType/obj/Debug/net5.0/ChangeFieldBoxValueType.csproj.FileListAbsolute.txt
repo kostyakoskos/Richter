@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\ChangeFieldBoxValueType\bin\Debug\net5.0\ChangeFieldBoxValueType.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\ChangeFieldBoxValueType\bin\Debug\net5.0\ChangeFieldBoxValueType.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\ChangeFieldBoxValueType\bin\Debug\net5.0\ChangeFieldBoxValueType.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\ChangeFieldBoxValueType\bin\Debug\net5.0\ChangeFieldBoxValueType.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\ChangeFieldBoxValueType\bin\Debug\net5.0\ChangeFieldBoxValueType.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\ChangeFieldBoxValueType\bin\Debug\net5.0\ref\ChangeFieldBoxValueType.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\ChangeFieldBoxValueType\bin\Debug\net5.0\ChangeFieldBoxValueType.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\ChangeFieldBoxValueType\obj\Debug\net5.0\ChangeFieldBoxValueType.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\ChangeFieldBoxValueType\obj\Debug\net5.0\ChangeFieldBoxValueType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\ChangeFieldBoxValueType\obj\Debug\net5.0\ChangeFieldBoxValueType.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\ChangeFieldBoxValueType\obj\Debug\net5.0\ChangeFieldBoxValueType.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\ChangeFieldBoxValueType\obj\Debug\net5.0\ChangeFieldBoxValueType.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\ChangeFieldBoxValueType\obj\Debug\net5.0\ChangeFieldBoxValueType.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\ChangeFieldBoxValueType\obj\Debug\net5.0\ref\ChangeFieldBoxValueType.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\ChangeFieldBoxValueType\obj\Debug\net5.0\ChangeFieldBoxValueType.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\ChangeFieldBoxValueType\obj\Debug\net5.0\ChangeFieldBoxValueType.genruntimeconfig.cache

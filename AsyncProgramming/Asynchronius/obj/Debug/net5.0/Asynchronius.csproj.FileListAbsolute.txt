@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\Asynchronius\bin\Debug\net5.0\Asynchronius.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\Asynchronius\bin\Debug\net5.0\Asynchronius.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\Asynchronius\bin\Debug\net5.0\Asynchronius.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\Asynchronius\bin\Debug\net5.0\Asynchronius.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\Asynchronius\bin\Debug\net5.0\Asynchronius.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\Asynchronius\bin\Debug\net5.0\ref\Asynchronius.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\Asynchronius\bin\Debug\net5.0\Asynchronius.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\Asynchronius\obj\Debug\net5.0\Asynchronius.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\Asynchronius\obj\Debug\net5.0\Asynchronius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\Asynchronius\obj\Debug\net5.0\Asynchronius.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\Asynchronius\obj\Debug\net5.0\Asynchronius.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\Asynchronius\obj\Debug\net5.0\Asynchronius.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\Asynchronius\obj\Debug\net5.0\Asynchronius.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\Asynchronius\obj\Debug\net5.0\ref\Asynchronius.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\Asynchronius\obj\Debug\net5.0\Asynchronius.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\LockMonitorMutexSemaphore\Asynchronius\obj\Debug\net5.0\Asynchronius.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\DynamicType\DynamicType\bin\Debug\net5.0\DynamicType.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\DynamicType\DynamicType\bin\Debug\net5.0\DynamicType.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\DynamicType\DynamicType\bin\Debug\net5.0\DynamicType.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\DynamicType\DynamicType\bin\Debug\net5.0\DynamicType.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\DynamicType\DynamicType\bin\Debug\net5.0\DynamicType.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\DynamicType\DynamicType\bin\Debug\net5.0\ref\DynamicType.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\DynamicType\DynamicType\bin\Debug\net5.0\DynamicType.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\DynamicType\DynamicType\obj\Debug\net5.0\DynamicType.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\DynamicType\DynamicType\obj\Debug\net5.0\DynamicType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\DynamicType\DynamicType\obj\Debug\net5.0\DynamicType.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\DynamicType\DynamicType\obj\Debug\net5.0\DynamicType.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\DynamicType\DynamicType\obj\Debug\net5.0\DynamicType.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\DynamicType\DynamicType\obj\Debug\net5.0\DynamicType.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\DynamicType\DynamicType\obj\Debug\net5.0\ref\DynamicType.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\DynamicType\DynamicType\obj\Debug\net5.0\DynamicType.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\DynamicType\DynamicType\obj\Debug\net5.0\DynamicType.genruntimeconfig.cache

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LockMonitorMutexSemaphore", "LockMonitorMutexSemaphore\LockMonitorMutexSemaphore.csproj", "{0B9EF0CC-0F88-4B99-B92A-BD05E4C72618}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asynchronius", "Asynchronius\Asynchronius.csproj", "{3D218C8F-F69B-4A4B-9818-A457D9F535B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CancellationTask", "CancellationTask\CancellationTask.csproj", "{3C0F7384-36E0-4321-BFD0-E3E86431DB33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChildTask", "ChildTask\ChildTask.csproj", "{D357C35A-E175-4F4D-9B44-D8CE57356C3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskFirstApp", "TaskFirstApp\TaskFirstApp.csproj", "{A1323848-1838-4C46-8D02-FE783B92E316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskFactory", "TaskFactory\TaskFactory.csproj", "{C3AE03E1-B1B6-493C-8A88-3F19A69AE8CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B9EF0CC-0F88-4B99-B92A-BD05E4C72618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9EF0CC-0F88-4B99-B92A-BD05E4C72618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9EF0CC-0F88-4B99-B92A-BD05E4C72618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9EF0CC-0F88-4B99-B92A-BD05E4C72618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D218C8F-F69B-4A4B-9818-A457D9F535B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D218C8F-F69B-4A4B-9818-A457D9F535B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D218C8F-F69B-4A4B-9818-A457D9F535B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D218C8F-F69B-4A4B-9818-A457D9F535B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C0F7384-36E0-4321-BFD0-E3E86431DB33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C0F7384-36E0-4321-BFD0-E3E86431DB33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C0F7384-36E0-4321-BFD0-E3E86431DB33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C0F7384-36E0-4321-BFD0-E3E86431DB33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D357C35A-E175-4F4D-9B44-D8CE57356C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D357C35A-E175-4F4D-9B44-D8CE57356C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D357C35A-E175-4F4D-9B44-D8CE57356C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D357C35A-E175-4F4D-9B44-D8CE57356C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1323848-1838-4C46-8D02-FE783B92E316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1323848-1838-4C46-8D02-FE783B92E316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1323848-1838-4C46-8D02-FE783B92E316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1323848-1838-4C46-8D02-FE783B92E316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3AE03E1-B1B6-493C-8A88-3F19A69AE8CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3AE03E1-B1B6-493C-8A88-3F19A69AE8CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3AE03E1-B1B6-493C-8A88-3F19A69AE8CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3AE03E1-B1B6-493C-8A88-3F19A69AE8CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F20CD01-3493-40F0-83C6-A07F37ABEAF0}
+	EndGlobalSection
+EndGlobal

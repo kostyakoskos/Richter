@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\VirtualMethod\VirtualMethod\bin\Debug\net5.0\VirtualMethod.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\VirtualMethod\VirtualMethod\bin\Debug\net5.0\VirtualMethod.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\VirtualMethod\VirtualMethod\bin\Debug\net5.0\VirtualMethod.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\VirtualMethod\VirtualMethod\bin\Debug\net5.0\VirtualMethod.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\VirtualMethod\VirtualMethod\bin\Debug\net5.0\VirtualMethod.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\VirtualMethod\VirtualMethod\bin\Debug\net5.0\ref\VirtualMethod.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\VirtualMethod\VirtualMethod\bin\Debug\net5.0\VirtualMethod.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\VirtualMethod\VirtualMethod\obj\Debug\net5.0\VirtualMethod.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\VirtualMethod\VirtualMethod\obj\Debug\net5.0\VirtualMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\VirtualMethod\VirtualMethod\obj\Debug\net5.0\VirtualMethod.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\VirtualMethod\VirtualMethod\obj\Debug\net5.0\VirtualMethod.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\VirtualMethod\VirtualMethod\obj\Debug\net5.0\VirtualMethod.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\VirtualMethod\VirtualMethod\obj\Debug\net5.0\VirtualMethod.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\VirtualMethod\VirtualMethod\obj\Debug\net5.0\ref\VirtualMethod.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\VirtualMethod\VirtualMethod\obj\Debug\net5.0\VirtualMethod.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\VirtualMethod\VirtualMethod\obj\Debug\net5.0\VirtualMethod.genruntimeconfig.cache
