@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\NullTypes\NullTypes\bin\Debug\net5.0\NullTypes.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\NullTypes\NullTypes\bin\Debug\net5.0\NullTypes.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\NullTypes\NullTypes\bin\Debug\net5.0\NullTypes.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\NullTypes\NullTypes\bin\Debug\net5.0\NullTypes.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\NullTypes\NullTypes\bin\Debug\net5.0\NullTypes.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\NullTypes\NullTypes\bin\Debug\net5.0\ref\NullTypes.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\NullTypes\NullTypes\bin\Debug\net5.0\NullTypes.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\NullTypes\NullTypes\obj\Debug\net5.0\NullTypes.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\NullTypes\NullTypes\obj\Debug\net5.0\NullTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\NullTypes\NullTypes\obj\Debug\net5.0\NullTypes.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\NullTypes\NullTypes\obj\Debug\net5.0\NullTypes.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\NullTypes\NullTypes\obj\Debug\net5.0\NullTypes.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\NullTypes\NullTypes\obj\Debug\net5.0\NullTypes.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\NullTypes\NullTypes\obj\Debug\net5.0\ref\NullTypes.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\NullTypes\NullTypes\obj\Debug\net5.0\NullTypes.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\NullTypes\NullTypes\obj\Debug\net5.0\NullTypes.genruntimeconfig.cache

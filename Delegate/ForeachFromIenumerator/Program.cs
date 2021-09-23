@@ -37,11 +37,14 @@ namespace ForeachFromIenumerator
             // И вот почему: delegate добавляется циклически, однако параметр i передаётся по ссылке.
             // Поэтому, по окончании цикла i равно 10, и при каждом запуске delegate будет
             // выводиться работать с этим значением
-            List<Printer> printers = new List<Printer>();
+            List<Printer> printers = new List<Printer>();// array of delegate
+            List<int> p = new List<int>();
+            p.Add(1);
             for (int i = 0; i < 10; i++)
             {
-                printers.Add(delegate { int d = i; Console.WriteLine(d); });
+                printers.Add(delegate { int d = i; i += 10; Console.WriteLine("Hello" + i); });
             }
+            //GC.Collect();
             // делегат не запускется пока его не вызовут. это происхолит во втором цикле. 
             foreach (var printer in printers)
             {

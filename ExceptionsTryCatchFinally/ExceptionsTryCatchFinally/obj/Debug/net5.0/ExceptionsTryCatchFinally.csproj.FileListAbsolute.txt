@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ExceptionsTryCatchFinally\ExceptionsTryCatchFinally\bin\Debug\net5.0\ExceptionsTryCatchFinally.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ExceptionsTryCatchFinally\ExceptionsTryCatchFinally\bin\Debug\net5.0\ExceptionsTryCatchFinally.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ExceptionsTryCatchFinally\ExceptionsTryCatchFinally\bin\Debug\net5.0\ExceptionsTryCatchFinally.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ExceptionsTryCatchFinally\ExceptionsTryCatchFinally\bin\Debug\net5.0\ExceptionsTryCatchFinally.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ExceptionsTryCatchFinally\ExceptionsTryCatchFinally\bin\Debug\net5.0\ExceptionsTryCatchFinally.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ExceptionsTryCatchFinally\ExceptionsTryCatchFinally\bin\Debug\net5.0\ref\ExceptionsTryCatchFinally.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ExceptionsTryCatchFinally\ExceptionsTryCatchFinally\bin\Debug\net5.0\ExceptionsTryCatchFinally.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ExceptionsTryCatchFinally\ExceptionsTryCatchFinally\obj\Debug\net5.0\ExceptionsTryCatchFinally.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ExceptionsTryCatchFinally\ExceptionsTryCatchFinally\obj\Debug\net5.0\ExceptionsTryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ExceptionsTryCatchFinally\ExceptionsTryCatchFinally\obj\Debug\net5.0\ExceptionsTryCatchFinally.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ExceptionsTryCatchFinally\ExceptionsTryCatchFinally\obj\Debug\net5.0\ExceptionsTryCatchFinally.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ExceptionsTryCatchFinally\ExceptionsTryCatchFinally\obj\Debug\net5.0\ExceptionsTryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ExceptionsTryCatchFinally\ExceptionsTryCatchFinally\obj\Debug\net5.0\ExceptionsTryCatchFinally.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ExceptionsTryCatchFinally\ExceptionsTryCatchFinally\obj\Debug\net5.0\ref\ExceptionsTryCatchFinally.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ExceptionsTryCatchFinally\ExceptionsTryCatchFinally\obj\Debug\net5.0\ExceptionsTryCatchFinally.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ExceptionsTryCatchFinally\ExceptionsTryCatchFinally\obj\Debug\net5.0\ExceptionsTryCatchFinally.genruntimeconfig.cache
