@@ -40,9 +40,9 @@ namespace ForeachFromIenumerator
             List<Printer> printers = new List<Printer>();
             for (int i = 0; i < 10; i++)
             {
-                printers.Add(delegate { Console.WriteLine(i); });
+                printers.Add(delegate { int d = i; Console.WriteLine(d); });
             }
-
+            // делегат не запускется пока его не вызовут. это происхолит во втором цикле. 
             foreach (var printer in printers)
             {
                 printer();

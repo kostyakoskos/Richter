@@ -1,0 +1,15 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\EffectiveStringBuilder\bin\Debug\net5.0\EffectiveStringBuilder.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\EffectiveStringBuilder\bin\Debug\net5.0\EffectiveStringBuilder.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\EffectiveStringBuilder\bin\Debug\net5.0\EffectiveStringBuilder.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\EffectiveStringBuilder\bin\Debug\net5.0\EffectiveStringBuilder.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\EffectiveStringBuilder\bin\Debug\net5.0\EffectiveStringBuilder.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\EffectiveStringBuilder\bin\Debug\net5.0\ref\EffectiveStringBuilder.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\EffectiveStringBuilder\bin\Debug\net5.0\EffectiveStringBuilder.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\EffectiveStringBuilder\obj\Debug\net5.0\EffectiveStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\EffectiveStringBuilder\obj\Debug\net5.0\EffectiveStringBuilder.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\EffectiveStringBuilder\obj\Debug\net5.0\EffectiveStringBuilder.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\EffectiveStringBuilder\obj\Debug\net5.0\EffectiveStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\EffectiveStringBuilder\obj\Debug\net5.0\EffectiveStringBuilder.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\EffectiveStringBuilder\obj\Debug\net5.0\ref\EffectiveStringBuilder.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\EffectiveStringBuilder\obj\Debug\net5.0\EffectiveStringBuilder.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\EffectiveStringBuilder\obj\Debug\net5.0\EffectiveStringBuilder.genruntimeconfig.cache

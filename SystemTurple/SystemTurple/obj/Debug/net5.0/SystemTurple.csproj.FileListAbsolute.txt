@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SystemTurple\SystemTurple\bin\Debug\net5.0\SystemTurple.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SystemTurple\SystemTurple\bin\Debug\net5.0\SystemTurple.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SystemTurple\SystemTurple\bin\Debug\net5.0\SystemTurple.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SystemTurple\SystemTurple\bin\Debug\net5.0\SystemTurple.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SystemTurple\SystemTurple\bin\Debug\net5.0\SystemTurple.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SystemTurple\SystemTurple\bin\Debug\net5.0\ref\SystemTurple.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SystemTurple\SystemTurple\bin\Debug\net5.0\SystemTurple.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SystemTurple\SystemTurple\obj\Debug\net5.0\SystemTurple.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SystemTurple\SystemTurple\obj\Debug\net5.0\SystemTurple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SystemTurple\SystemTurple\obj\Debug\net5.0\SystemTurple.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SystemTurple\SystemTurple\obj\Debug\net5.0\SystemTurple.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SystemTurple\SystemTurple\obj\Debug\net5.0\SystemTurple.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SystemTurple\SystemTurple\obj\Debug\net5.0\SystemTurple.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SystemTurple\SystemTurple\obj\Debug\net5.0\ref\SystemTurple.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SystemTurple\SystemTurple\obj\Debug\net5.0\SystemTurple.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SystemTurple\SystemTurple\obj\Debug\net5.0\SystemTurple.genruntimeconfig.cache

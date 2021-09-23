@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\ConvertTypes\bin\Debug\net5.0\ConvertTypes.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\ConvertTypes\bin\Debug\net5.0\ConvertTypes.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\ConvertTypes\bin\Debug\net5.0\ConvertTypes.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\ConvertTypes\bin\Debug\net5.0\ConvertTypes.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\ConvertTypes\bin\Debug\net5.0\ConvertTypes.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\ConvertTypes\bin\Debug\net5.0\ref\ConvertTypes.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\ConvertTypes\bin\Debug\net5.0\ConvertTypes.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\ConvertTypes\obj\Debug\net5.0\ConvertTypes.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\ConvertTypes\obj\Debug\net5.0\ConvertTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\ConvertTypes\obj\Debug\net5.0\ConvertTypes.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\ConvertTypes\obj\Debug\net5.0\ConvertTypes.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\ConvertTypes\obj\Debug\net5.0\ConvertTypes.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\ConvertTypes\obj\Debug\net5.0\ConvertTypes.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\ConvertTypes\obj\Debug\net5.0\ref\ConvertTypes.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\ConvertTypes\obj\Debug\net5.0\ConvertTypes.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\ConvertTypes\obj\Debug\net5.0\ConvertTypes.genruntimeconfig.cache

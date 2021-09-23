@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\ForeachFromIenumerator\bin\Debug\net5.0\ForeachFromIenumerator.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\ForeachFromIenumerator\bin\Debug\net5.0\ForeachFromIenumerator.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\ForeachFromIenumerator\bin\Debug\net5.0\ForeachFromIenumerator.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\ForeachFromIenumerator\bin\Debug\net5.0\ForeachFromIenumerator.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\ForeachFromIenumerator\bin\Debug\net5.0\ForeachFromIenumerator.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\ForeachFromIenumerator\bin\Debug\net5.0\ref\ForeachFromIenumerator.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\ForeachFromIenumerator\bin\Debug\net5.0\ForeachFromIenumerator.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\ForeachFromIenumerator\obj\Debug\net5.0\ForeachFromIenumerator.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\ForeachFromIenumerator\obj\Debug\net5.0\ForeachFromIenumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\ForeachFromIenumerator\obj\Debug\net5.0\ForeachFromIenumerator.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\ForeachFromIenumerator\obj\Debug\net5.0\ForeachFromIenumerator.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\ForeachFromIenumerator\obj\Debug\net5.0\ForeachFromIenumerator.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\ForeachFromIenumerator\obj\Debug\net5.0\ForeachFromIenumerator.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\ForeachFromIenumerator\obj\Debug\net5.0\ref\ForeachFromIenumerator.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\ForeachFromIenumerator\obj\Debug\net5.0\ForeachFromIenumerator.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Delegate\ForeachFromIenumerator\obj\Debug\net5.0\ForeachFromIenumerator.genruntimeconfig.cache

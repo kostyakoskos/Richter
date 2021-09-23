@@ -1,0 +1,15 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Generic\GenericInterface\bin\Debug\net5.0\GenericInterface.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Generic\GenericInterface\bin\Debug\net5.0\GenericInterface.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Generic\GenericInterface\bin\Debug\net5.0\GenericInterface.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Generic\GenericInterface\bin\Debug\net5.0\GenericInterface.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Generic\GenericInterface\bin\Debug\net5.0\GenericInterface.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Generic\GenericInterface\bin\Debug\net5.0\ref\GenericInterface.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Generic\GenericInterface\bin\Debug\net5.0\GenericInterface.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Generic\GenericInterface\obj\Debug\net5.0\GenericInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Generic\GenericInterface\obj\Debug\net5.0\GenericInterface.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Generic\GenericInterface\obj\Debug\net5.0\GenericInterface.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Generic\GenericInterface\obj\Debug\net5.0\GenericInterface.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Generic\GenericInterface\obj\Debug\net5.0\GenericInterface.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Generic\GenericInterface\obj\Debug\net5.0\ref\GenericInterface.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Generic\GenericInterface\obj\Debug\net5.0\GenericInterface.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Generic\GenericInterface\obj\Debug\net5.0\GenericInterface.genruntimeconfig.cache

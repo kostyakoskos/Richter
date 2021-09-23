@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\SymbolStringStringBuilder\bin\Debug\net5.0\SymbolStringStringBuilder.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\SymbolStringStringBuilder\bin\Debug\net5.0\SymbolStringStringBuilder.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\SymbolStringStringBuilder\bin\Debug\net5.0\SymbolStringStringBuilder.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\SymbolStringStringBuilder\bin\Debug\net5.0\SymbolStringStringBuilder.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\SymbolStringStringBuilder\bin\Debug\net5.0\SymbolStringStringBuilder.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\SymbolStringStringBuilder\bin\Debug\net5.0\ref\SymbolStringStringBuilder.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\SymbolStringStringBuilder\bin\Debug\net5.0\SymbolStringStringBuilder.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\SymbolStringStringBuilder\obj\Debug\net5.0\SymbolStringStringBuilder.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\SymbolStringStringBuilder\obj\Debug\net5.0\SymbolStringStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\SymbolStringStringBuilder\obj\Debug\net5.0\SymbolStringStringBuilder.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\SymbolStringStringBuilder\obj\Debug\net5.0\SymbolStringStringBuilder.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\SymbolStringStringBuilder\obj\Debug\net5.0\SymbolStringStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\SymbolStringStringBuilder\obj\Debug\net5.0\SymbolStringStringBuilder.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\SymbolStringStringBuilder\obj\Debug\net5.0\ref\SymbolStringStringBuilder.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\SymbolStringStringBuilder\obj\Debug\net5.0\SymbolStringStringBuilder.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\SymbolStringStringBuilder\SymbolStringStringBuilder\obj\Debug\net5.0\SymbolStringStringBuilder.genruntimeconfig.cache
