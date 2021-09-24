@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ForegroundBAckGroundThreads\ForegroundBAckGroundThreads\bin\Debug\ForegroundBAckGroundThreads.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ForegroundBAckGroundThreads\ForegroundBAckGroundThreads\bin\Debug\ForegroundBAckGroundThreads.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ForegroundBAckGroundThreads\ForegroundBAckGroundThreads\bin\Debug\ForegroundBAckGroundThreads.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ForegroundBAckGroundThreads\ForegroundBAckGroundThreads\obj\Debug\ForegroundBAckGroundThreads.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ForegroundBAckGroundThreads\ForegroundBAckGroundThreads\obj\Debug\ForegroundBAckGroundThreads.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ForegroundBAckGroundThreads\ForegroundBAckGroundThreads\obj\Debug\ForegroundBAckGroundThreads.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ForegroundBAckGroundThreads\ForegroundBAckGroundThreads\obj\Debug\ForegroundBAckGroundThreads.pdb

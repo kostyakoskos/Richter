@@ -1,0 +1,6 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AsyncOperations\DisableCopyText\bin\Debug\DisableCopyText.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AsyncOperations\DisableCopyText\bin\Debug\DisableCopyText.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AsyncOperations\DisableCopyText\bin\Debug\DisableCopyText.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AsyncOperations\DisableCopyText\obj\Debug\DisableCopyText.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AsyncOperations\DisableCopyText\obj\Debug\DisableCopyText.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AsyncOperations\DisableCopyText\obj\Debug\DisableCopyText.pdb

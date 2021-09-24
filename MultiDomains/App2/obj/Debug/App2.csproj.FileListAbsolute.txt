@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\MultiDomains\App2\bin\Debug\App2.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Richter\MultiDomains\App2\bin\Debug\App2.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\MultiDomains\App2\bin\Debug\App2.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\MultiDomains\App2\obj\Debug\App2.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\MultiDomains\App2\obj\Debug\App2.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\MultiDomains\App2\obj\Debug\App2.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\MultiDomains\App2\obj\Debug\App2.csproj.AssemblyReference.cache

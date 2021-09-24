@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AsyncOperations\AsyncOperations\bin\Debug\AsyncOperations.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AsyncOperations\AsyncOperations\bin\Debug\AsyncOperations.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AsyncOperations\AsyncOperations\bin\Debug\AsyncOperations.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AsyncOperations\AsyncOperations\obj\Debug\AsyncOperations.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AsyncOperations\AsyncOperations\obj\Debug\AsyncOperations.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AsyncOperations\AsyncOperations\obj\Debug\AsyncOperations.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\AsyncOperations\AsyncOperations\obj\Debug\AsyncOperations.pdb

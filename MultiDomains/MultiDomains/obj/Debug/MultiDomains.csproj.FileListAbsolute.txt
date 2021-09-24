@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\MultiDomains\MultiDomains\bin\Debug\MultiDomains.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Richter\MultiDomains\MultiDomains\bin\Debug\MultiDomains.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\MultiDomains\MultiDomains\bin\Debug\MultiDomains.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\MultiDomains\MultiDomains\obj\Debug\MultiDomains.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\MultiDomains\MultiDomains\obj\Debug\MultiDomains.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\MultiDomains\MultiDomains\obj\Debug\MultiDomains.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\MultiDomains\MultiDomains\obj\Debug\MultiDomains.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WInService", "WInService\WInService.csproj", "{C45FFD12-F1D7-4B1D-B7ED-14EBD11C33D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C45FFD12-F1D7-4B1D-B7ED-14EBD11C33D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C45FFD12-F1D7-4B1D-B7ED-14EBD11C33D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C45FFD12-F1D7-4B1D-B7ED-14EBD11C33D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C45FFD12-F1D7-4B1D-B7ED-14EBD11C33D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EED7DBB0-FFE2-4CCA-BA66-AC1C657D8679}
+	EndGlobalSection
+EndGlobal
