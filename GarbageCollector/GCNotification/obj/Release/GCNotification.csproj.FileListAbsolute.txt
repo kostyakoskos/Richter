@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GCNotification\bin\Release\GCNotification.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GCNotification\bin\Release\GCNotification.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GCNotification\bin\Release\GCNotification.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GCNotification\obj\Release\GCNotification.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GCNotification\obj\Release\GCNotification.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GCNotification\obj\Release\GCNotification.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GCNotification\obj\Release\GCNotification.pdb

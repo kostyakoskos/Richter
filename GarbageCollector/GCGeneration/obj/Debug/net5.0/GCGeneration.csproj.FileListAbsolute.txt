@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GCGeneration\bin\Debug\net5.0\GCGeneration.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GCGeneration\bin\Debug\net5.0\GCGeneration.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GCGeneration\bin\Debug\net5.0\GCGeneration.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GCGeneration\bin\Debug\net5.0\GCGeneration.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GCGeneration\bin\Debug\net5.0\GCGeneration.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GCGeneration\bin\Debug\net5.0\ref\GCGeneration.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GCGeneration\bin\Debug\net5.0\GCGeneration.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GCGeneration\obj\Debug\net5.0\GCGeneration.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GCGeneration\obj\Debug\net5.0\GCGeneration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GCGeneration\obj\Debug\net5.0\GCGeneration.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GCGeneration\obj\Debug\net5.0\GCGeneration.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GCGeneration\obj\Debug\net5.0\GCGeneration.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GCGeneration\obj\Debug\net5.0\GCGeneration.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GCGeneration\obj\Debug\net5.0\ref\GCGeneration.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GCGeneration\obj\Debug\net5.0\GCGeneration.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GCGeneration\obj\Debug\net5.0\GCGeneration.genruntimeconfig.cache

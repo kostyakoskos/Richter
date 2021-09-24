@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\YieldIterator\YieldIterator\bin\Debug\net5.0\YieldIterator.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\YieldIterator\YieldIterator\bin\Debug\net5.0\YieldIterator.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\YieldIterator\YieldIterator\bin\Debug\net5.0\YieldIterator.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\YieldIterator\YieldIterator\bin\Debug\net5.0\YieldIterator.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\YieldIterator\YieldIterator\bin\Debug\net5.0\YieldIterator.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\YieldIterator\YieldIterator\bin\Debug\net5.0\ref\YieldIterator.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\YieldIterator\YieldIterator\bin\Debug\net5.0\YieldIterator.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\YieldIterator\YieldIterator\obj\Debug\net5.0\YieldIterator.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\YieldIterator\YieldIterator\obj\Debug\net5.0\YieldIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\YieldIterator\YieldIterator\obj\Debug\net5.0\YieldIterator.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\YieldIterator\YieldIterator\obj\Debug\net5.0\YieldIterator.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\YieldIterator\YieldIterator\obj\Debug\net5.0\YieldIterator.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\YieldIterator\YieldIterator\obj\Debug\net5.0\YieldIterator.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\YieldIterator\YieldIterator\obj\Debug\net5.0\ref\YieldIterator.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\YieldIterator\YieldIterator\obj\Debug\net5.0\YieldIterator.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\YieldIterator\YieldIterator\obj\Debug\net5.0\YieldIterator.genruntimeconfig.cache

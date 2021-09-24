@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\AppDomain\bin\Debug\AppDomain.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\AppDomain\bin\Debug\AppDomain.exe
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\AppDomain\bin\Debug\AppDomain.pdb
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\AppDomain\obj\Debug\AppDomain.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\AppDomain\obj\Debug\AppDomain.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\AppDomain\obj\Debug\AppDomain.exe
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\AppDomain\obj\Debug\AppDomain.pdb

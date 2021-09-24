@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\DomainsUnload\bin\Debug\DomainsUnload.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\DomainsUnload\bin\Debug\DomainsUnload.exe
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\DomainsUnload\bin\Debug\DomainsUnload.pdb
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\DomainsUnload\obj\Debug\DomainsUnload.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\DomainsUnload\obj\Debug\DomainsUnload.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\DomainsUnload\obj\Debug\DomainsUnload.exe
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\DomainsUnload\obj\Debug\DomainsUnload.pdb

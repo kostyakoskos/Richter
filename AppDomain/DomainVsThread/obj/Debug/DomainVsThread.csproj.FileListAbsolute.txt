@@ -1,0 +1,6 @@
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\DomainVsThread\bin\Debug\DomainVsThread.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\DomainVsThread\bin\Debug\DomainVsThread.exe
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\DomainVsThread\bin\Debug\DomainVsThread.pdb
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\DomainVsThread\obj\Debug\DomainVsThread.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\DomainVsThread\obj\Debug\DomainVsThread.exe
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\DomainVsThread\obj\Debug\DomainVsThread.pdb

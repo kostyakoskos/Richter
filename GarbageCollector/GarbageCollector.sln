@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageCollector", "GarbageCollector\GarbageCollector.csproj", "{6F961C0D-19ED-43E8-954C-9983A79DA8CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GarbageCollector", "GarbageCollector\GarbageCollector.csproj", "{6F961C0D-19ED-43E8-954C-9983A79DA8CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dispose", "Dispose\Dispose.csproj", "{D4A81ED8-22E6-4A73-A4A7-801CF6F5097F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dispose", "Dispose\Dispose.csproj", "{D4A81ED8-22E6-4A73-A4A7-801CF6F5097F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GCGeneration", "GCGeneration\GCGeneration.csproj", "{B6EEEE55-67A3-4875-9A1B-C135D908C804}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCNotification", "GCNotification\GCNotification.csproj", "{4F2D21C2-BFD0-48F5-8BF8-78E764EE107F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassSafehandler", "ClassSafehandler\ClassSafehandler.csproj", "{7CA7D0C4-22F1-4A78-B937-0FEF19EDD157}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{D4A81ED8-22E6-4A73-A4A7-801CF6F5097F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4A81ED8-22E6-4A73-A4A7-801CF6F5097F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4A81ED8-22E6-4A73-A4A7-801CF6F5097F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6EEEE55-67A3-4875-9A1B-C135D908C804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6EEEE55-67A3-4875-9A1B-C135D908C804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6EEEE55-67A3-4875-9A1B-C135D908C804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6EEEE55-67A3-4875-9A1B-C135D908C804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F2D21C2-BFD0-48F5-8BF8-78E764EE107F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2D21C2-BFD0-48F5-8BF8-78E764EE107F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2D21C2-BFD0-48F5-8BF8-78E764EE107F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F2D21C2-BFD0-48F5-8BF8-78E764EE107F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA7D0C4-22F1-4A78-B937-0FEF19EDD157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA7D0C4-22F1-4A78-B937-0FEF19EDD157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA7D0C4-22F1-4A78-B937-0FEF19EDD157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA7D0C4-22F1-4A78-B937-0FEF19EDD157}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

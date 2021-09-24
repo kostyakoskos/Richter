@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GarbageCollector\bin\Release\net5.0\GarbageCollector.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GarbageCollector\bin\Release\net5.0\GarbageCollector.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GarbageCollector\bin\Release\net5.0\GarbageCollector.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GarbageCollector\bin\Release\net5.0\GarbageCollector.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GarbageCollector\bin\Release\net5.0\GarbageCollector.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GarbageCollector\bin\Release\net5.0\ref\GarbageCollector.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GarbageCollector\bin\Release\net5.0\GarbageCollector.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GarbageCollector\obj\Release\net5.0\GarbageCollector.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GarbageCollector\obj\Release\net5.0\GarbageCollector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GarbageCollector\obj\Release\net5.0\GarbageCollector.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GarbageCollector\obj\Release\net5.0\GarbageCollector.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GarbageCollector\obj\Release\net5.0\GarbageCollector.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GarbageCollector\obj\Release\net5.0\GarbageCollector.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GarbageCollector\obj\Release\net5.0\ref\GarbageCollector.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GarbageCollector\obj\Release\net5.0\GarbageCollector.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\GarbageCollector\obj\Release\net5.0\GarbageCollector.genruntimeconfig.cache

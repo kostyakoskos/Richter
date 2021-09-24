@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\ClassSafehandler\bin\Debug\ClassSafehandler.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\ClassSafehandler\bin\Debug\ClassSafehandler.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\ClassSafehandler\bin\Debug\ClassSafehandler.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\ClassSafehandler\obj\Debug\ClassSafehandler.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\ClassSafehandler\obj\Debug\ClassSafehandler.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\ClassSafehandler\obj\Debug\ClassSafehandler.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\GarbageCollector\ClassSafehandler\obj\Debug\ClassSafehandler.pdb

@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\TimerGC\TimerGC\bin\Release\TimerGC.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Richter\TimerGC\TimerGC\bin\Release\TimerGC.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\TimerGC\TimerGC\bin\Release\TimerGC.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\TimerGC\TimerGC\obj\Release\TimerGC.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\TimerGC\TimerGC\obj\Release\TimerGC.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\TimerGC\TimerGC\obj\Release\TimerGC.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\TimerGC\TimerGC\obj\Release\TimerGC.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\DomainException\bin\Debug\DomainException.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\DomainException\bin\Debug\DomainException.exe
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\DomainException\bin\Debug\DomainException.pdb
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\DomainException\obj\Debug\DomainException.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\DomainException\obj\Debug\DomainException.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\DomainException\obj\Debug\DomainException.exe
+C:\Users\kanstantsin.karatkev\source\repos\AppDomain\DomainException\obj\Debug\DomainException.pdb

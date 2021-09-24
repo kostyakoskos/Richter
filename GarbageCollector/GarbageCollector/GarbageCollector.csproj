@@ -3,6 +3,18 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
+    <StartupObject>GarbageCollector.Program</StartupObject>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <Optimize>false</Optimize>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <Optimize>false</Optimize>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
 
 </Project>
