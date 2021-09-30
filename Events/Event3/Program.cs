@@ -51,6 +51,7 @@ namespace Event3
                 {
                     case ConsoleKey.W:
                         km.WKeyPressEvent();
+                        //km.wKeyPressEvent -= buttonW_Click;
                         break;
                     case ConsoleKey.S:
                         km.SKeyPressEvent();

@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ExtensionsMethod\ExtensionsOfSealed\bin\Debug\ExtensionsOfSealed.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ExtensionsMethod\ExtensionsOfSealed\bin\Debug\ExtensionsOfSealed.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ExtensionsMethod\ExtensionsOfSealed\bin\Debug\ExtensionsOfSealed.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ExtensionsMethod\ExtensionsOfSealed\obj\Debug\ExtensionsOfSealed.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ExtensionsMethod\ExtensionsOfSealed\obj\Debug\ExtensionsOfSealed.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ExtensionsMethod\ExtensionsOfSealed\obj\Debug\ExtensionsOfSealed.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ExtensionsMethod\ExtensionsOfSealed\obj\Debug\ExtensionsOfSealed.pdb

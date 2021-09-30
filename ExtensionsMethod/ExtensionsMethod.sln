@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionsMethod", "ExtensionsMethod\ExtensionsMethod.csproj", "{8D57AC65-7AC8-4ADB-A96A-A68FD6D2EE4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionsMethod", "ExtensionsMethod\ExtensionsMethod.csproj", "{8D57AC65-7AC8-4ADB-A96A-A68FD6D2EE4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionsOfSealed", "ExtensionsOfSealed\ExtensionsOfSealed.csproj", "{DAFC08E6-AC45-4708-8F41-4D6F34EC9C22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8D57AC65-7AC8-4ADB-A96A-A68FD6D2EE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D57AC65-7AC8-4ADB-A96A-A68FD6D2EE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D57AC65-7AC8-4ADB-A96A-A68FD6D2EE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAFC08E6-AC45-4708-8F41-4D6F34EC9C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFC08E6-AC45-4708-8F41-4D6F34EC9C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFC08E6-AC45-4708-8F41-4D6F34EC9C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFC08E6-AC45-4708-8F41-4D6F34EC9C22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

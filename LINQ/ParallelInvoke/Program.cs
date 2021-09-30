@@ -2,8 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.NetworkInformation;
-using System.Text;
 using System.Threading.Tasks;
+
+// Parallel for плохо исопльзовать, т.к. требует слишком много ресурсов. Надо использовать
+// asParallel.
+// Parallel.ForEach () обеспечивает последоватьельный дрступ к элементам, в отличие от asParallel
+// asparallel это plinq
 
 namespace ParallelInvoke
 {

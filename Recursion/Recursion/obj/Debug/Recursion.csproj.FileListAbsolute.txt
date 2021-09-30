@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Recursion\Recursion\obj\Debug\Recursion.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Recursion\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Recursion\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Recursion\Recursion\bin\Debug\Recursion.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Recursion\Recursion\bin\Debug\Recursion.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Recursion\Recursion\obj\Debug\Recursion.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Recursion\Recursion\obj\Debug\Recursion.pdb

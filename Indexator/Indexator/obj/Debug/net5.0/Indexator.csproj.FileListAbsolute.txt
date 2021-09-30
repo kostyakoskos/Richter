@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Indexator\Indexator\bin\Debug\net5.0\Indexator.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Indexator\Indexator\bin\Debug\net5.0\Indexator.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Indexator\Indexator\bin\Debug\net5.0\Indexator.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Indexator\Indexator\bin\Debug\net5.0\Indexator.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Indexator\Indexator\bin\Debug\net5.0\Indexator.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Indexator\Indexator\bin\Debug\net5.0\ref\Indexator.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Indexator\Indexator\bin\Debug\net5.0\Indexator.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Indexator\Indexator\obj\Debug\net5.0\Indexator.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Indexator\Indexator\obj\Debug\net5.0\Indexator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Indexator\Indexator\obj\Debug\net5.0\Indexator.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Indexator\Indexator\obj\Debug\net5.0\Indexator.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Indexator\Indexator\obj\Debug\net5.0\Indexator.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Indexator\Indexator\obj\Debug\net5.0\Indexator.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Indexator\Indexator\obj\Debug\net5.0\ref\Indexator.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Indexator\Indexator\obj\Debug\net5.0\Indexator.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Indexator\Indexator\obj\Debug\net5.0\Indexator.genruntimeconfig.cache

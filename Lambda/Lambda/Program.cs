@@ -15,9 +15,9 @@ namespace Lambda
             hd.Invoke();
             CompareDelegate cd = (x, y) => x == y;
 
-            //Console.WriteLine(cd(3, 3));
+            // Console.WriteLine(cd(3, 3));
 
-            Console.WriteLine(cd("G\n", "G\n"));
+            Console.WriteLine(cd("G\n", "G\nt"));
 
             Console.WriteLine("Hello World!");
 

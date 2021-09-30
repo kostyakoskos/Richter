@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Partial\Partial\bin\Debug\net5.0\Partial.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Partial\Partial\bin\Debug\net5.0\Partial.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Partial\Partial\bin\Debug\net5.0\Partial.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Partial\Partial\bin\Debug\net5.0\Partial.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Partial\Partial\bin\Debug\net5.0\Partial.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Partial\Partial\bin\Debug\net5.0\ref\Partial.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Partial\Partial\bin\Debug\net5.0\Partial.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Partial\Partial\obj\Debug\net5.0\Partial.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Partial\Partial\obj\Debug\net5.0\Partial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Partial\Partial\obj\Debug\net5.0\Partial.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Partial\Partial\obj\Debug\net5.0\Partial.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Partial\Partial\obj\Debug\net5.0\Partial.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Partial\Partial\obj\Debug\net5.0\Partial.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Partial\Partial\obj\Debug\net5.0\ref\Partial.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Partial\Partial\obj\Debug\net5.0\Partial.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\Partial\Partial\obj\Debug\net5.0\Partial.genruntimeconfig.cache

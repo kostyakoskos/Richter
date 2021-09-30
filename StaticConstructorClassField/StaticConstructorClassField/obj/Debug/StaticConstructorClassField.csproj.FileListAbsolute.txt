@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\StaticConstructorClassField\StaticConstructorClassField\bin\Debug\StaticConstructorClassField.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Richter\StaticConstructorClassField\StaticConstructorClassField\bin\Debug\StaticConstructorClassField.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\StaticConstructorClassField\StaticConstructorClassField\bin\Debug\StaticConstructorClassField.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\StaticConstructorClassField\StaticConstructorClassField\obj\Debug\StaticConstructorClassField.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\StaticConstructorClassField\StaticConstructorClassField\obj\Debug\StaticConstructorClassField.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\StaticConstructorClassField\StaticConstructorClassField\obj\Debug\StaticConstructorClassField.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\StaticConstructorClassField\StaticConstructorClassField\obj\Debug\StaticConstructorClassField.pdb

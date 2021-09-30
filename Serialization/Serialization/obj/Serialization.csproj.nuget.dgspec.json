@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kanstantsin.karatkev\\source\\repos\\Serialization\\Serialization\\Serialization.csproj": {}
+    "C:\\Users\\kanstantsin.karatkev\\source\\repos\\Richter\\Serialization\\Serialization\\Serialization.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kanstantsin.karatkev\\source\\repos\\Serialization\\Serialization\\Serialization.csproj": {
+    "C:\\Users\\kanstantsin.karatkev\\source\\repos\\Richter\\Serialization\\Serialization\\Serialization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kanstantsin.karatkev\\source\\repos\\Serialization\\Serialization\\Serialization.csproj",
+        "projectUniqueName": "C:\\Users\\kanstantsin.karatkev\\source\\repos\\Richter\\Serialization\\Serialization\\Serialization.csproj",
         "projectName": "Serialization",
-        "projectPath": "C:\\Users\\kanstantsin.karatkev\\source\\repos\\Serialization\\Serialization\\Serialization.csproj",
+        "projectPath": "C:\\Users\\kanstantsin.karatkev\\source\\repos\\Richter\\Serialization\\Serialization\\Serialization.csproj",
         "packagesPath": "C:\\Users\\kanstantsin.karatkev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kanstantsin.karatkev\\source\\repos\\Serialization\\Serialization\\obj\\",
+        "outputPath": "C:\\Users\\kanstantsin.karatkev\\source\\repos\\Richter\\Serialization\\Serialization\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kanstantsin.karatkev\\AppData\\Roaming\\NuGet\\NuGet.Config",

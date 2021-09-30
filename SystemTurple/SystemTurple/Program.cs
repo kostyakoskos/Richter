@@ -1,5 +1,5 @@
 ﻿using System;
-// bad to use system.turple
+// bad to use system.tuple
 namespace SystemTurple
 {
     [Serializable]

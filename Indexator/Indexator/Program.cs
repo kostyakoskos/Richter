@@ -1,5 +1,6 @@
 ﻿using System;
 // indexator - можем оьращаться к элементам класса по индексу
+// enum это про структуру, indexator про класс
 namespace Indexator
 {
     class Person
@@ -28,7 +29,7 @@ namespace Indexator
             people[0] = new Person { Name = "Bob" };
             people[1] = new Person { Name = "John" };
             Person namePerson = people[1];
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(people[0].Name);
         }
     }
 }

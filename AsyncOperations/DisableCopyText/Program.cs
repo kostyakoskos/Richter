@@ -20,9 +20,6 @@ namespace DisableCopyText
             ExecutionContext.SuppressFlow();
             ThreadPool.QueueUserWorkItem(state => Console.WriteLine("Name={0}",
                 CallContext.LogicalGetData("Name")));
-            ExecutionContext.SuppressFlow();
-            ThreadPool.QueueUserWorkItem(state => Console.WriteLine("Name={0}",
-                CallContext.LogicalGetData("Name")));
             // ExecutionContext.RestoreFlow();
 
             Console.ReadKey();

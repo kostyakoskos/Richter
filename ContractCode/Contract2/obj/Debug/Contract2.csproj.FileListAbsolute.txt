@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ContractCode\Contract2\bin\Debug\Contract2.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ContractCode\Contract2\bin\Debug\Contract2.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ContractCode\Contract2\bin\Debug\Contract2.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ContractCode\Contract2\obj\Debug\Contract2.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ContractCode\Contract2\obj\Debug\Contract2.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ContractCode\Contract2\obj\Debug\Contract2.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\ContractCode\Contract2\obj\Debug\Contract2.pdb
