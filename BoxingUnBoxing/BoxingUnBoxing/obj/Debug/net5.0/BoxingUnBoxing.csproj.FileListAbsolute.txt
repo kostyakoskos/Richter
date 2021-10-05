@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingUnBoxing\bin\Debug\net5.0\BoxingUnBoxing.exe
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingUnBoxing\bin\Debug\net5.0\BoxingUnBoxing.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingUnBoxing\bin\Debug\net5.0\BoxingUnBoxing.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingUnBoxing\bin\Debug\net5.0\BoxingUnBoxing.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingUnBoxing\bin\Debug\net5.0\BoxingUnBoxing.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingUnBoxing\bin\Debug\net5.0\ref\BoxingUnBoxing.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingUnBoxing\bin\Debug\net5.0\BoxingUnBoxing.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingUnBoxing\obj\Debug\net5.0\BoxingUnBoxing.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingUnBoxing\obj\Debug\net5.0\BoxingUnBoxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingUnBoxing\obj\Debug\net5.0\BoxingUnBoxing.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingUnBoxing\obj\Debug\net5.0\BoxingUnBoxing.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingUnBoxing\obj\Debug\net5.0\BoxingUnBoxing.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingUnBoxing\obj\Debug\net5.0\BoxingUnBoxing.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingUnBoxing\obj\Debug\net5.0\ref\BoxingUnBoxing.dll
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingUnBoxing\obj\Debug\net5.0\BoxingUnBoxing.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Richter\BoxingUnBoxing\BoxingUnBoxing\obj\Debug\net5.0\BoxingUnBoxing.genruntimeconfig.cache

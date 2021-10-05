@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csproj", "{6C3E8D0C-9307-46C6-9124-06715A4D220D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Events", "Events\Events.csproj", "{6C3E8D0C-9307-46C6-9124-06715A4D220D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event2", "Event2\Event2.csproj", "{72A87598-D018-496E-B337-612FA72A8FFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Event2", "Event2\Event2.csproj", "{72A87598-D018-496E-B337-612FA72A8FFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event3", "Event3\Event3.csproj", "{1D1A6705-1033-4AE5-AB69-B6613B7B2003}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Event3", "Event3\Event3.csproj", "{1D1A6705-1033-4AE5-AB69-B6613B7B2003}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
